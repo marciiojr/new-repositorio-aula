@@ -84,3 +84,9 @@ main {
       width: 29rem; 
       height: 33rem; 
 } 
+
+footer {
+    background-color: #fff;
+
+    height: 400px;
+}
